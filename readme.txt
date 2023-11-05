@@ -1,0 +1,1 @@
+create a file with name data and collect all the pictures together on this file
